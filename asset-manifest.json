@@ -1,15 +1,15 @@
 {
-  "main.css": "joshuaadesign.com/weather-2.0/static/css/main.8f2df384.chunk.css",
-  "main.js": "joshuaadesign.com/weather-2.0/static/js/main.f7dd249b.chunk.js",
-  "main.js.map": "joshuaadesign.com/weather-2.0/static/js/main.f7dd249b.chunk.js.map",
-  "runtime~main.js": "joshuaadesign.com/weather-2.0/static/js/runtime~main.83835ddb.js",
-  "runtime~main.js.map": "joshuaadesign.com/weather-2.0/static/js/runtime~main.83835ddb.js.map",
-  "static/css/2.e883b90b.chunk.css": "joshuaadesign.com/weather-2.0/static/css/2.e883b90b.chunk.css",
-  "static/js/2.2e5272d6.chunk.js": "joshuaadesign.com/weather-2.0/static/js/2.2e5272d6.chunk.js",
-  "static/js/2.2e5272d6.chunk.js.map": "joshuaadesign.com/weather-2.0/static/js/2.2e5272d6.chunk.js.map",
-  "index.html": "joshuaadesign.com/weather-2.0/index.html",
-  "precache-manifest.04f1ca4c872a4ef74fbdd5c5f6d1b584.js": "joshuaadesign.com/weather-2.0/precache-manifest.04f1ca4c872a4ef74fbdd5c5f6d1b584.js",
-  "service-worker.js": "joshuaadesign.com/weather-2.0/service-worker.js",
-  "static/css/2.e883b90b.chunk.css.map": "joshuaadesign.com/weather-2.0/static/css/2.e883b90b.chunk.css.map",
-  "static/css/main.8f2df384.chunk.css.map": "joshuaadesign.com/weather-2.0/static/css/main.8f2df384.chunk.css.map"
+  "main.css": "joshuaadesign.com/static/css/main.8f2df384.chunk.css",
+  "main.js": "joshuaadesign.com/static/js/main.f7dd249b.chunk.js",
+  "main.js.map": "joshuaadesign.com/static/js/main.f7dd249b.chunk.js.map",
+  "runtime~main.js": "joshuaadesign.com/static/js/runtime~main.2253cb7c.js",
+  "runtime~main.js.map": "joshuaadesign.com/static/js/runtime~main.2253cb7c.js.map",
+  "static/css/2.e883b90b.chunk.css": "joshuaadesign.com/static/css/2.e883b90b.chunk.css",
+  "static/js/2.2e5272d6.chunk.js": "joshuaadesign.com/static/js/2.2e5272d6.chunk.js",
+  "static/js/2.2e5272d6.chunk.js.map": "joshuaadesign.com/static/js/2.2e5272d6.chunk.js.map",
+  "index.html": "joshuaadesign.com/index.html",
+  "precache-manifest.93b4a09657a34f8114906e8c226421c7.js": "joshuaadesign.com/precache-manifest.93b4a09657a34f8114906e8c226421c7.js",
+  "service-worker.js": "joshuaadesign.com/service-worker.js",
+  "static/css/2.e883b90b.chunk.css.map": "joshuaadesign.com/static/css/2.e883b90b.chunk.css.map",
+  "static/css/main.8f2df384.chunk.css.map": "joshuaadesign.com/static/css/main.8f2df384.chunk.css.map"
 }

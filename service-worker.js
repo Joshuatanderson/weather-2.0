@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "joshuaadesign.com/weather-2.0/precache-manifest.04f1ca4c872a4ef74fbdd5c5f6d1b584.js"
+  "joshuaadesign.com/precache-manifest.93b4a09657a34f8114906e8c226421c7.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("joshuaadesign.com/weather-2.0/index.html", {
+workbox.routing.registerNavigationRoute("joshuaadesign.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
