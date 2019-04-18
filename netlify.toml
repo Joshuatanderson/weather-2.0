@@ -1,0 +1,4 @@
+[build]
+base = "weather-app/"
+publish = "weather-app/build/"
+command = "yarn build"
