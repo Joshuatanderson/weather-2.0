@@ -1,4 +1,4 @@
 [build]
-base = "src/"
-publish = "src/build/"
+base = "public/"
+publish = "public/build/"
 command = "yarn build"
